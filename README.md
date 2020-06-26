@@ -12,6 +12,6 @@ ngafga;gna;jga;
 - Carla
 - Joao
 
-(link aqui)[https://awwapp.com/b/u4yzmqve2hkru/]
+[link aqui](https://awwapp.com/b/u4yzmqve2hkru/)
 
 
