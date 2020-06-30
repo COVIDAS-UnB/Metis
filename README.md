@@ -15,6 +15,6 @@ Desenvolver um sistema de gerenciamento multifatorial que assegure o distanciame
 - Maria Eduarda dos Anjos Coutinho;
 - Rafael Cardoso;
 
-[link aqui](https://awwapp.com/b/u4yzmqve2hkru/)
+(Projeto e Pitch se encontram na pasta "Documentos")
 
 
