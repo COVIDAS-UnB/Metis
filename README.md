@@ -1,10 +1,9 @@
-# Metis
+# Metis (Projeto BCE - Volte a Ler)
 
 # Descrição
 
 Desenvolver um sistema de gerenciamento multifatorial que assegure o distanciamento social, promova educação e etiquetas sociais referentes ao comportamentos inerentes ao período pandêmico. Além de ser factível de reprodução em outros ambientes similarmente controlados. ;
 
-ngafga;gna;jga;
 
 ## Participantes
 
