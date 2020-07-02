@@ -2,7 +2,7 @@
 
 # Descrição
 
-Desenvolver um sistema de gerenciamento multifatorial que assegure o distanciamento social, promova educação e etiquetas sociais referentes ao comportamentos inerentes ao período pandêmico. Além de ser factível de reprodução em outros ambientes similarmente controlados. ;
+Sistema de gerenciamento multifatorial que assegure o distanciamento social, promova educação e etiquetas sociais referentes ao comportamentos inerentes ao período pandêmico. Além de ser factível de reprodução em outros ambientes similarmente controlados.
 
 
 ## Participantes
@@ -15,6 +15,15 @@ Desenvolver um sistema de gerenciamento multifatorial que assegure o distanciame
 - Maria Eduarda dos Anjos Coutinho;
 - Rafael Cardoso;
 
-(Projeto e Pitch encontram-se na pasta "Documentos")
+## Conteúdo
+
+
+* [Pitch](https://www.youtube.com/watch?v=K6XxDZa7Ylo&feature=youtu.be)
+* [Documentos](./docs/Projeto_Pitch/)
+
+
+
+
+
 
 
